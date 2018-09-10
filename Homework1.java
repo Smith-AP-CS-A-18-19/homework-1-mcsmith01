@@ -35,6 +35,7 @@ public class Homework1 {
 	public static String problem4() {
 		String s = "Computer Science";
 		return s;
+		
 	}
 
 	/* Add 5 to num and return the new value
